@@ -10,27 +10,21 @@
 ## 팀원 소개
 
 ### 팀 리더: 이태경
-
 - **역할**: 백엔드 개발 & 인프라 관리
-- **전문 분야**: 소프트웨어 개발, DevOps
 - **연락처**: tph00100@gmail.com
 - **깃허브**: [이태경 깃허브](https://github.com/tph00300)
 
 ### 팀원: 조민현
 - **역할**: 백엔드 개발 & 인프라 관리
-- **전문 분야**: 
 - **연락처**: simh3077@ajou.ac.kr
 - **깃허브**: [조민현 깃허브](https://github.com/Jayfunf)
 
 ### 팀원: 오유민
 - **역할**: 프론트 개발
-- **전문 분야**:
 - **연락처**: ka09023@gmail.com
 - **깃허브**: [오유민 깃허브](https://github.com/yuminnnnni)
 
 ### 팀원: 원해연
-
 - **역할**: 프론트엔드 개발
-- **전문 분야**:
 - **연락처**: won980630@ajou.ac.kr
-- **깃허브**: https://github.com/wantyeon
+- **깃허브**: [원해연 깃허브](https://github.com/wantyeon)
