@@ -34,15 +34,15 @@
 
 ### Back-end
 <div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" width="80">
+<img src="https://github.com/user-attachments/assets/c1bf0f6b-2d50-4937-9719-28f27e508e31" width="80">
+<img src="https://github.com/user-attachments/assets/eb89943d-0f94-48c1-8ee8-0ea0f103368c" width="80">
+<img src="https://github.com/user-attachments/assets/dd46e34a-48d3-4bdc-9287-0bc4207a55d5" width="80">
 </div>
 
 ### Front-end
 <div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="80">
+<img src="https://github.com/user-attachments/assets/8863f194-41e2-40d5-b33a-7db1ee8d5f79" width="80">
+<img src="https://github.com/user-attachments/assets/f0596589-247c-4436-831e-f8314890565e" width="80">
 </div>
 
 [//]: # ()
@@ -53,7 +53,7 @@
 
 ### Communication Tool
 <div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
+<img src="https://github.com/user-attachments/assets/844a20ee-147c-4444-a5e4-4454a4683938" width="80">
+<img src="https://github.com/user-attachments/assets/e29f7e1f-9209-4d89-bf23-eae8239e02a1" width="80">
 </div>
 
